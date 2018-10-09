@@ -1,0 +1,16 @@
+F:\freelance\crmClient\crmClient
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=crmClient
+--content-root=F:\freelance\crmClient\crmClient
+--file=F:\freelance\crmClient\crmClient\Views\Account\AccessDenied.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Account\SignedOut.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Home\About.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Home\Accounts.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Home\Contact.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Home\Index.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Shared\Error.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Shared\_Layout.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Shared\_LoginPartial.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\_ViewImports.cshtml
+--file=F:\freelance\crmClient\crmClient\Views\_ViewStart.cshtml

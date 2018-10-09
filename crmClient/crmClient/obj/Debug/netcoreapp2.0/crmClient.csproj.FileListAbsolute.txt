@@ -1,0 +1,12 @@
+F:\freelance\crmClient\crmClient\bin\Debug\netcoreapp2.0\crmClient.deps.json
+F:\freelance\crmClient\crmClient\bin\Debug\netcoreapp2.0\crmClient.runtimeconfig.json
+F:\freelance\crmClient\crmClient\bin\Debug\netcoreapp2.0\crmClient.runtimeconfig.dev.json
+F:\freelance\crmClient\crmClient\bin\Debug\netcoreapp2.0\crmClient.dll
+F:\freelance\crmClient\crmClient\bin\Debug\netcoreapp2.0\crmClient.pdb
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\crmClient.csprojAssemblyReference.cache
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\crmClient.csproj.CoreCompileInputs.cache
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\crmClient.AssemblyInfoInputs.cache
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\crmClient.AssemblyInfo.cs
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\crmClient.dll
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\crmClient.pdb
+F:\freelance\crmClient\crmClient\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
